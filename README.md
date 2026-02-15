@@ -49,6 +49,15 @@ I don't just write code, I build systems, solve problems that don't have Stack O
 ## ⏱️ WakaTime Stats
 
 <!--START_SECTION:waka-->
+
+```txt
+YAML         1 hr 23 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.05 %
+Other        1 hr 17 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.86 %
+JSON         1 hr 6 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   12.85 %
+Dart         1 hr 3 mins     ███░░░░░░░░░░░░░░░░░░░░░░   12.29 %
+SSH Config   1 hr 2 mins     ███░░░░░░░░░░░░░░░░░░░░░░   12.03 %
+```
+
 <!--END_SECTION:waka-->
 
 ## 🎯 Current Focus
