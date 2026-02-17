@@ -55,11 +55,11 @@ I don't just write code, I build systems, solve problems that don't have Stack O
 <!--START_SECTION:waka-->
 
 ```txt
-YAML         1 hr 23 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.05 %
-Other        1 hr 17 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.86 %
-JSON         1 hr 6 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   12.85 %
-Dart         1 hr 3 mins     ███░░░░░░░░░░░░░░░░░░░░░░   12.29 %
-SSH Config   1 hr 2 mins     ███░░░░░░░░░░░░░░░░░░░░░░   12.03 %
+Other        2 hrs 19 mins   ███████░░░░░░░░░░░░░░░░░░   27.73 %
+Dart         1 hr 37 mins    █████░░░░░░░░░░░░░░░░░░░░   19.37 %
+Go           1 hr 26 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.26 %
+SSH Config   46 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.23 %
+JSON         42 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 %
 ```
 
 <!--END_SECTION:waka-->
