@@ -85,7 +85,7 @@ JSON          1 hr 32 mins          ██▓░░░░░░░░░░░�
 
 I'm always down to talk about: irrational hating on Python, Why TS is so based, Bringing TTRPG systems into the digital world
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/amirali-daliri/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amirali-daliri/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amiralidaliri@icloud.com)
 
 ---
