@@ -1,6 +1,6 @@
 # Hey, I'm Amirali 👋
 
-**Full-stack developer** who builds things that (usually) work on the first try. (Okay, third try. Fine, seventh.)
+**Full-stack developer** who builds things that (usually) work on the first try. (Okay, third try. Fine, seventh.) I'm aiming to break the boundaries between tech stacks and languages and attain the skill and experience of a true software engineer. I'll probably lose my mind in the process, but it's definitely worth it.
 
 ## 🧠 What I'm About
 
@@ -85,7 +85,7 @@ JSON          1 hr 32 mins          ██▓░░░░░░░░░░░�
 
 I'm always down to talk about: irrational hating on Python, Why TS is so based, Bringing TTRPG systems into the digital world
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/amirali-daliri/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/amirali-daliri/))
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amiralidaliri@icloud.com)
 
 ---
