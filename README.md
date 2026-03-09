@@ -56,10 +56,7 @@ I don't just write code, I build systems, solve problems that don't have Stack O
 <!--START_SECTION:waka-->
 
 ```txt
-Bash         47 mins               ███████████████░░░░░░░░░░   60.62 %
-TypeScript   20 mins               ██████▓░░░░░░░░░░░░░░░░░░   26.31 %
-Text         8 mins                ██▓░░░░░░░░░░░░░░░░░░░░░░   10.43 %
-Other        2 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
