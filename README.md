@@ -1,6 +1,6 @@
 # Hey, I'm Amirali 👋
 
-**Full-stack developer** who builds things that (usually) work on the first try. (Okay, third try. Fine, seventh.) I'm aiming to break the boundaries between tech stacks and languages and attain the skill and experience of a true software engineer. I'll probably lose my mind in the process, but it's definitely worth it.
+**Full-stack developer** who builds things that (usually) work on the first try. (Okay, third try. Maybe more.) I'm aiming to break the boundaries between tech stacks and languages and attain the skill and experience of a true software engineer. I'll probably lose my mind in the process, but it's definitely worth it.
 
 ## 🧠 What I'm About
 
@@ -21,12 +21,13 @@ I don't just write code, I build systems, solve problems that don't have Stack O
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Tauri](https://img.shields.io/badge/Tauri-000000?style=for-the-badge&logo=tauri&logoColor=FFC131)
 
-**Backend:** ![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=339933)
-![NestJS](https://img.shields.io/badge/NestJS-000000?style=for-the-badge&logo=nestjs&logoColor=E0234E)
+**Backend:** ![NestJS](https://img.shields.io/badge/NestJS-000000?style=for-the-badge&logo=nestjs&logoColor=E0234E)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Fastify](https://img.shields.io/badge/fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
 ![ElysiaJS](https://img.shields.io/badge/ElysiaJS-000000?style=for-the-badge&logo=elysia&logoColor=white)
-![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=F9F0E1)
+![Gin](https://img.shields.io/badge/Gin-000000?style=for-the-badge&logo=go&logoColor=00ACD7)
+![Socket.io](https://img.shields.io/badge/Socket.io-000000?style=for-the-badge&logo=socket.io&logoColor=FFFFFF)
+![Discord.js](https://img.shields.io/badge/Discord.js-000000?style=for-the-badge&logo=discord&logoColor=5865F2)
 
 **Databases & Infrastructure:** ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=4169E1)
 ![MariaDB](https://img.shields.io/badge/MariaDB-000000?style=for-the-badge&logo=mariadb&logoColor=003545)
@@ -36,10 +37,16 @@ I don't just write code, I build systems, solve problems that don't have Stack O
 ![Qdrant](https://img.shields.io/badge/Qdrant-000000?style=for-the-badge&logo=qdrant&logoColor=DC244C)
 ![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=47A248)
 ![Redis](https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis&logoColor=DC382D)
-![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=2496ED)
-![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032)
+![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=aws&logoColor=FF9900)
+![Atlas](https://img.shields.io/badge/Atlas-000000?style=for-the-badge)
+![GORM](https://img.shields.io/badge/GORM-000000?style=for-the-badge&logo=go&logoColor=00ACD7)
 
+**Tools & Platforms:** ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Apple](https://img.shields.io/badge/Apple-000000?style=for-the-badge&logo=apple&logoColor=FFFFFF)
+![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=F9F0E1)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=339933)
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=2496ED)
 ## 📊 GitHub Stats
 
 <div align="center">
