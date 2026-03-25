@@ -63,11 +63,7 @@ I don't just write code, I build systems, solve problems that don't have Stack O
 <!--START_SECTION:waka-->
 
 ```txt
-Bash       45 mins               ████████▒░░░░░░░░░░░░░░░░   33.57 %
-Dart       44 mins               ████████▒░░░░░░░░░░░░░░░░   32.76 %
-Markdown   31 mins               ██████░░░░░░░░░░░░░░░░░░░   23.51 %
-JSON       8 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.62 %
-Other      4 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
