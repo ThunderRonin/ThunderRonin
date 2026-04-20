@@ -1,6 +1,6 @@
 # Hey, I'm Amirali 👋
 
-**Full-stack developer** who builds things that (usually) work on the first try. (Okay, third try. Maybe more.) I'm aiming to break the boundaries between tech stacks and languages and attain the skill and experience of a true software engineer. I'll probably lose my mind in the process, but it's definitely worth it.
+**Software developer** who builds things that (usually) work on the first try. (Okay, third try. Maybe more.) I'm aiming to break the boundaries between tech stacks and languages and attain the skill and experience of a true software engineer. I'll probably lose my mind in the process, but it's definitely worth it.
 
 ## 🧠 What I'm About
 
