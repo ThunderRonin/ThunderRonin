@@ -63,11 +63,11 @@ I don't just write code, I build systems, solve problems that don't have Stack O
 <!--START_SECTION:waka-->
 
 ```txt
-Dart         4 hrs 34 mins         ████████░░░░░░░░░░░░░░░░░   31.57 %
-Markdown     3 hrs 5 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.37 %
-Other        2 hrs 40 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.43 %
-Bash         55 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.35 %
-Go           51 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.97 %
+Dart         9 hrs 8 mins          ████████░░░░░░░░░░░░░░░░░   31.65 %
+TypeScript   6 hrs 32 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.67 %
+Markdown     5 hrs 9 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.85 %
+Other        2 hrs 33 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.89 %
+Go           1 hr 52 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.49 %
 ```
 
 <!--END_SECTION:waka-->
