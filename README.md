@@ -63,8 +63,7 @@ I don't just write code, I build systems, solve problems that don't have Stack O
 <!--START_SECTION:waka-->
 
 ```txt
-Bash       8 mins                █████████████▒░░░░░░░░░░░   53.78 %
-Markdown   7 mins                ███████████▓░░░░░░░░░░░░░   46.22 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
