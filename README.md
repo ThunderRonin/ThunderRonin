@@ -63,11 +63,11 @@ I don't just write code, I build systems, solve problems that don't have Stack O
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     7 hrs 42 mins         ██████████▓░░░░░░░░░░░░░░   42.61 %
-Other        2 hrs 6 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.63 %
-JSON         1 hr 40 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.25 %
-PowerShell   1 hr 38 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.10 %
-Docker       1 hr 5 mins           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.06 %
+Markdown     9 hrs 27 mins         █████████▓░░░░░░░░░░░░░░░   38.30 %
+Other        3 hrs 25 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.89 %
+TypeScript   2 hrs 11 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.87 %
+C#           1 hr 47 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.25 %
+PowerShell   1 hr 38 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.67 %
 ```
 
 <!--END_SECTION:waka-->
