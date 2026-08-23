@@ -63,11 +63,7 @@ I don't just write code, I build systems, solve problems that don't have Stack O
 <!--START_SECTION:waka-->
 
 ```txt
-C#           16 mins               ███████████████░░░░░░░░░░   59.79 %
-Markdown     9 mins                █████████░░░░░░░░░░░░░░░░   35.68 %
-YAML         0 secs                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
-JSON         0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
-Git Config   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
