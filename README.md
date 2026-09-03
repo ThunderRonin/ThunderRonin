@@ -63,9 +63,7 @@ I don't just write code, I build systems, solve problems that don't have Stack O
 <!--START_SECTION:waka-->
 
 ```txt
-TOML         19 mins               █████████████████████▓░░░   87.28 %
-Other        2 mins                ███░░░░░░░░░░░░░░░░░░░░░░   12.30 %
-JavaScript   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
