@@ -63,8 +63,8 @@ I don't just write code, I build systems, solve problems that don't have Stack O
 <!--START_SECTION:waka-->
 
 ```txt
-Other   3 hrs 33 mins         ████████████████████▓░░░░   82.48 %
-Bash    45 mins               ████▒░░░░░░░░░░░░░░░░░░░░   17.52 %
+Other   1 hr 32 mins          ████████████████▓░░░░░░░░   67.00 %
+Bash    45 mins               ████████▒░░░░░░░░░░░░░░░░   33.00 %
 ```
 
 <!--END_SECTION:waka-->
